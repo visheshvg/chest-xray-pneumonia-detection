@@ -1,0 +1,10 @@
+=== efficientnetb4 — Classification Report ===
+
+              precision    recall  f1-score   support
+
+      NORMAL       0.94      0.76      0.84       234
+   PNEUMONIA       0.87      0.97      0.92       390
+
+    accuracy                           0.89       624
+   macro avg       0.90      0.86      0.88       624
+weighted avg       0.90      0.89      0.89       624

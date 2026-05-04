@@ -1,0 +1,10 @@
+=== mobilenetv4 — Classification Report ===
+
+              precision    recall  f1-score   support
+
+      NORMAL       0.95      0.77      0.85       234
+   PNEUMONIA       0.88      0.98      0.92       390
+
+    accuracy                           0.90       624
+   macro avg       0.92      0.88      0.89       624
+weighted avg       0.91      0.90      0.90       624

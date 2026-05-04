@@ -1,0 +1,10 @@
+=== densenet121 — Classification Report ===
+
+              precision    recall  f1-score   support
+
+      NORMAL       0.97      0.75      0.85       234
+   PNEUMONIA       0.87      0.99      0.92       390
+
+    accuracy                           0.90       624
+   macro avg       0.92      0.87      0.88       624
+weighted avg       0.91      0.90      0.89       624

@@ -1,0 +1,10 @@
+=== custom_cnn — Classification Report ===
+
+              precision    recall  f1-score   support
+
+      NORMAL       0.94      0.62      0.75       234
+   PNEUMONIA       0.81      0.98      0.89       390
+
+    accuracy                           0.84       624
+   macro avg       0.88      0.80      0.82       624
+weighted avg       0.86      0.84      0.84       624
